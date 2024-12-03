@@ -1,4 +1,5 @@
 using EmployeePortal.Data;
+using EmployeePortal.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(db => db.UseSqlServer(builder.Configuration.GetConnectionString("DbConnection")));
+// Register EmployeeRepository
+/*builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>()*/;
+builder.Services.AddScoped<EmployeeRepository>();
 var app = builder.Build();
 
 
