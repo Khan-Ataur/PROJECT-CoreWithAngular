@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|d:\\project\\git_jp\\project-corewithangular\\employeeportal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|d:\\project\\git_jp\\project-corewithangular\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|d:\\project\\git_jp\\project-corewithangular\\employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Migrations\\20241203160213_project initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241203160213_project initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|d:\\project\\git_jp\\project-corewithangular\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|d:\\project\\git_jp\\project-corewithangular\\employeeportal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53410CC2-5F1C-451C-AAA4-5C276C75F166}|EmployeePortal.csproj|d:\\project\\git_jp\\project-corewithangular\\employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:59:49.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:51:34.905Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -102,20 +138,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "20241203160213_project initial.cs",
+              "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Migrations\\20241203160213_project initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241203160213_project initial.cs",
+              "ToolTip": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Migrations\\20241203160213_project initial.cs",
+              "RelativeToolTip": "Migrations\\20241203160213_project initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:02:13.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Repository\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
               "ToolTip": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Repository\\EmployeeRepository.cs",
               "RelativeToolTip": "Repository\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAkAAAA5AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T18:35:00.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -123,12 +172,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:11:13.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T18:11:13.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -140,28 +188,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAClAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-02T17:59:55.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Project\\GIT_JP\\PROJECT-CoreWithAngular\\EmployeePortal\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:59:49.609Z",
               "EditorCaption": ""
             }
           ]
